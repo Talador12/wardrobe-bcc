@@ -1,0 +1,9 @@
+## Interface: 11302
+## Author: Copperbolts
+## Version: 2.0.0
+## Title: |cffFF7D0AWardrobe|r
+## Notes: Wardrobe assistant for those in need of gear management.
+## SavedVariables: WardrobeDb
+
+Wardrobe_Db.lua
+Wardrobe.lua
